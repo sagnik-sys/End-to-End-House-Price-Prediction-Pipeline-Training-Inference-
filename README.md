@@ -165,6 +165,7 @@ python main.py
 ## Author
 
 **[sagnik-sys](https://github.com/sagnik-sys)**
+**[sagnikbhattacharyya3@outlook.com](sagnikbhattacharyya3@outlook.com)**
 
 ---
 
